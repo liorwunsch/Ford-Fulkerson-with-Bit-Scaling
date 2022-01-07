@@ -1,1 +1,1 @@
-# Ford-Fulkerson-with-Bit-Scaling
+# Ford-Fulkerson with Bit-Scaling
